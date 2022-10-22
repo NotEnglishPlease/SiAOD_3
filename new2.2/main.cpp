@@ -1,6 +1,6 @@
 ﻿#include <iostream>
-#include <string>
 #include <time.h>
+#include <string>
 #include "Hash.h"
 
 using namespace std;
